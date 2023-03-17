@@ -1,8 +1,11 @@
 # Rosie Patrick
 
-### Environmental Science Senior
+### Senior majoring in Environmental Science 
 
 ### Metropolitan State University of Denver 
 
-<ul>
-<li> **[Email me here] (kpatric4@msudenver.edu) </li>
+* **[Email me here](kpatric4@msudenver.edu) 
+
+* **[Checkout my Github](https://github.com/finalfemme/Rosie-esiil-stars)
+
+I grew up in California before spending the first 6 years of my adult life in Montana. After completing my Associate of Science degree, I moved to Colorado at the end of 2019. My time among the beautiful Rocky mountains grew into a passion for resource sustainability, eventually leading me to study Environmental Science at MSU Denver. During my studying I realized the incredible potential within biological organisms to assist wtih energy production and remediation efforts, so I added a Biology minor to my academic path. I'm very interested in learning about how biological interactions can impact different parts of the environment so that we might discover how to harness them and improve the world around us. 
