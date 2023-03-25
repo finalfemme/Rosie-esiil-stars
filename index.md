@@ -1,10 +1,14 @@
+<img src = "reudi_reservoir.jpg" alt = "Paddleboard Panorama" style = "width: 800px; height: 400px">
+
 # Rosie Patrick
+
+<img src = "me_headshot.jpg" alt = "Hiking though Roxborough State Park" style = "width: 300px; height: 400px">
 
 ### Senior majoring in Environmental Science 
 
 ### Metropolitan State University of Denver 
 
-* [Email me here](kpatric4@msudenver.edu) 
+* [Email me!](kpatric4@msudenver.edu) 
 
 * [Checkout my Github](https://github.com/finalfemme/Rosie-esiil-stars)
 
