@@ -1,4 +1,4 @@
-<img src = "reudi_reservoir.jpg" alt = "Paddleboard Panorama" style = "width: 800px; height: 400px">
+<img src = "reudi_reservoir.jpg" alt = "Paddleboard Panorama" style = "width: 800px; height: 300px">
 
 # Rosie Patrick
 
